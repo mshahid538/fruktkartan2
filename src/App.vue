@@ -24,7 +24,6 @@
               alt="Fruktkartan"
               src="./assets/img/fruktkartan_a.png"
             >
-              <span class="beta" :style="{ display: betaDisplay }">beta</span>
             </v-img>
             <v-img v-else alt="Fruktkartan" src="./assets/img/f_t.png" />
           </v-card-title>
